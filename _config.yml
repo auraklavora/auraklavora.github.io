@@ -13,18 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Moj blog
-email: email.com
+title: Aura Klavora
+email: zaarjaa at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  To je najbolj kulski blog ever.
-  Spodaj si lahko preberete nove objave.
-
-  Upam da vam bo všeč.
+  Mini literarna internetna oaza.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://makov3c.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: whattt
-github_username:  makov3c
+github_username:  auraklavora
 
 # Build settings
 markdown: kramdown
